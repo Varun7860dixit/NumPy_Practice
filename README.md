@@ -1,4 +1,4 @@
-<h1>📊 NumPy Practice Repository<\h1>
+<h1>📊 NumPy Practice Repository</h1>
 This repository is dedicated to NumPy (Numerical Python)—a fundamental package for scientific computing in Python. It serves as a hands-on guide to mastering high-performance numerical operations, multi-dimensional arrays, and matrix manipulations essential for data science, machine learning, and scientific computing.
 
 🚀 What You'll Learn
